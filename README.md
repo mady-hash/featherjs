@@ -2,7 +2,7 @@
 
 A lightweight JavaScript framework for building modern web applications with [custom routing](https://featherjs.matteo.lt), [state management](https://featherjs.matteo.lt), and [JSX support](https://featherjs.matteo.lt).
 
-> **Note:** This is a downloadable package. If you're looking for the npm package, visit [npmjs.com/package/featherjs](https://www.npmjs.com/package/featherjs) (when available).
+> **Note:** This is a downloadable package. If you're looking for the npm package, visit [npmjs.com/package/featherjsx](https://www.npmjs.com/package/featherjsx) (when available).
 
 ## Quick Start
 
@@ -36,7 +36,7 @@ setup.bat
    npm run dev
    ```
 
-3. **Open your browser** and visit `http://localhost:5174`
+3. **Open your browser** and visit `http://localhost:5173`
 
 ## Project Structure
 
